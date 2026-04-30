@@ -37,8 +37,8 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: 112-213-89-72.cprapid.com
-          username: vibe_b07f2c3a@pago.vn
-          password: 16e870b77b93a98a5cd557d1
+          username: vibe_6f43be1d@pago.vn
+          password: b65375231022134a0a73bab8
           local-dir: ./dist/
           server-dir: /
           exclude: |
